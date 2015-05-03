@@ -1,5 +1,6 @@
 Rails.application.routes.draw do
-  resources :comments
+  #Commenting this... i ll access comments only through posts
+  #resources :comments
 
   resources :posts do
     resources :comments
