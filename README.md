@@ -1,3 +1,3 @@
 # README for blog app#
 
-This a blog application, build under **Ruby on Rails**, from **Web Application Architectures** course on **Coursera**.
+This a blog application, built with **Ruby on Rails**, from **Web Application Architectures** course on **Coursera**.
